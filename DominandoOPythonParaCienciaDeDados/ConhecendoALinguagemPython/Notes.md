@@ -31,3 +31,20 @@
 ## Strings
 - Strings ou cadeia de caracteres são usadas para representar valores alfanúmericos, e é implementada pela classe str.
 - "Python", 'python', """Python""", '''Python'''
+
+# Modo interativo
+- O interpretador python pode executar em modo que possibilite o desenvolvedor a escrever código, e ver o resultado na hora.
+
+## iniciando o modo interativo
+- Existem duas formas de iniciar o modo interativo, chamando apenas o interpretador (python) ou executando o script com a flag -i (python -i app.py)
+
+## função dir
+- Sem argumentos, retorna a lista de nomes no escopo local atual. Com um argumento, retorna uma lista de atributos válidos para o objeto
+- Ex:
+- - dir()
+- - dir(100)
+
+## função help
+- Invoca o sistema de ajuda integrada. É possível fazer buscas em modo interativo ou informar por parâmetro qual o nome do módulo, função, classe, método ou variável.
+- - help()
+- - help(100)

@@ -4,3 +4,4 @@ print(True) # bool
 print(bool(0)) # bool
 print("Python") #String
 
+ 

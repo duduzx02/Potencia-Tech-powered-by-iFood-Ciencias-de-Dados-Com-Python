@@ -48,3 +48,22 @@
 - Invoca o sistema de ajuda integrada. É possível fazer buscas em modo interativo ou informar por parâmetro qual o nome do módulo, função, classe, método ou variável.
 - - help()
 - - help(100)
+
+# Variáveis e constantes
+
+## Variáveis 
+- Em linguagens de programação podemos definir valores que podem sofrer alterações no decorrer da execução do programa. Esses valores recebem o nome de variáveis, pois eles nascem com um valor e não necessariamente devem permanecer com o mesmo durante a execução do programa.
+## Alterandos os valores
+- Não precisamos definir o tipo de dados da variável, o python faz isso automaticamente. E por isso não é possivel criar uma variável sem atribuir um valor. Para alterar o valor da variável basta fazer uma atribuição de um novo valor.
+
+## Constantes
+- Assim como as variáveis, são utilizadas para armazenar valores. Uma constante nasce com um valor e permanece com ele até o final da execução do programa, ou seja, o valor é imutável.
+
+## Python não tem constantes
+- Não existe uma palavra reservada para informar ao interpretador que o valor é constante.
+- Em python usamos a convenção que diz ao programador que a variável é uma constante. Para fazer isso, você deve criar a variável com o nome todo em letras maíusculas.
+
+## Boas práticas
+- O padrão de nomes deve ser snake case
+- Escolher nomes sugestivos
+- Nome de constantes todo em maiúcuslo.

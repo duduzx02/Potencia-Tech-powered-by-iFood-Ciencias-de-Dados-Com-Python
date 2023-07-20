@@ -67,3 +67,8 @@
 - O padrão de nomes deve ser snake case
 - Escolher nomes sugestivos
 - Nome de constantes todo em maiúcuslo.
+
+# Conversão de tipos
+## Convertendo tipos
+- Em alguns momentos é necessário converter o tipo de uma variável para manipular de forma diferente. Ex:
+- Variáveis do tipo string, que armazenam número e precisamos fazer alguma operação matemática com esse valor.

@@ -25,3 +25,7 @@
 # Operadores de identidades
 ## O que são?
 - São operadores utilizados para comparar se os dois objetos testados ocupam a mesma posição na memória.
+
+# Operadores de associação
+## O que são?
+- São operadores utilizados paraverificar se um objeto está presente em uma sequência.

@@ -9,3 +9,7 @@
 - - Expoêntes
 - - Multiplicações e divisões (da esquerda para a direita)
 - - Somas e subtrações (da esquerda para a direita)
+
+# Operadores de comparação
+## O que são?
+- São operadores utilizados para comparar dois valores.

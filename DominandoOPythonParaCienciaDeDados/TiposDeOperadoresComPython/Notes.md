@@ -21,3 +21,7 @@
 # Operadores Lógicos
 ## O que são?
 - São operadores utlizados em conjunto com os operadores de comparação, para montar uma expressão lógica.
+
+# Operadores de identidades
+## O que são?
+- São operadores utilizados para comparar se os dois objetos testados ocupam a mesma posição na memória.

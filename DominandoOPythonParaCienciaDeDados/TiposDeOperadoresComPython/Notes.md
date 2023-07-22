@@ -13,3 +13,7 @@
 # Operadores de comparação
 ## O que são?
 - São operadores utilizados para comparar dois valores.
+
+# Operadores de atribuição
+## O que são?
+- São operadores utilizados para definir o valor inicial ou sobrescrever o valor de uma variável.

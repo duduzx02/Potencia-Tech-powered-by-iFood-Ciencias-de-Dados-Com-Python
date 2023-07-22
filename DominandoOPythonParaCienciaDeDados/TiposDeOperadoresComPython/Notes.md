@@ -17,3 +17,7 @@
 # Operadores de atribuição
 ## O que são?
 - São operadores utilizados para definir o valor inicial ou sobrescrever o valor de uma variável.
+
+# Operadores Lógicos
+## O que são?
+- São operadores utlizados em conjunto com os operadores de comparação, para montar uma expressão lógica.

@@ -26,3 +26,11 @@
 
 ## if ternário
 - O if ternário permite escrever uma condição em uma única linha. Ele é composto por três partes, a primeira parte é o retorno caso a expressão retorne verdadeiro, a segunda parte é a expressão lógica e a terceira parte é o retorno caso a expressão não seja atendida.
+
+# Estrutura de repetição
+## O que são estruturas de repetição?
+- São estruturas utilizadas para repetir um trecho de código um determinado número de vezes. Esse número pode ser conhecido previamente ou determinado através de uma expressão lógica.
+
+## Comando for
+- O comando for é usado para percorrer um objeto iterável. Faz sentido usar for quando sabemos o número exato de vezes que nosso bloco deve ser executado, ou quando queremos percorrer um objeto iterável.
+

@@ -39,3 +39,6 @@
 
 - i, i +1, i + 2, ..., j - 1.
 - Ela recebe 3 argumentos: stop(obrigatório), start (opcional) e step (opcional).
+
+## Comando while
+- O comando while é usado para repetir um bloco de código várias vezes. Faz sentido usar while quando não sabemos o número exato de vezes que nosso bloco de código deve ser executado.

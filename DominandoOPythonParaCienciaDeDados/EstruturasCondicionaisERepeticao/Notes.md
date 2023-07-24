@@ -34,3 +34,8 @@
 ## Comando for
 - O comando for é usado para percorrer um objeto iterável. Faz sentido usar for quando sabemos o número exato de vezes que nosso bloco deve ser executado, ou quando queremos percorrer um objeto iterável.
 
+## Função range
+- Range é uma função buil-in do python, ela é usada para produzir uma sequÊncia de números inteiros a partir de um ínicio(inclusivo) para um fim (exclusivo). Se usarmos range(i, j) será produzido: 
+
+- i, i +1, i + 2, ..., j - 1.
+- Ela recebe 3 argumentos: stop(obrigatório), start (opcional) e step (opcional).

@@ -43,3 +43,6 @@ print(carros.count("gol"))
 print(carros.index("palio"))
 
 print(len(carros))
+
+motos = ("Start")
+print(isinstance(motos, tuple))

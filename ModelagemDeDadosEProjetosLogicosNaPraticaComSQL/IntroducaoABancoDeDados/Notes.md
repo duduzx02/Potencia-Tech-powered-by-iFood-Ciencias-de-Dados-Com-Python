@@ -34,3 +34,13 @@
 - Trabalhando com transações em BD no MySQL
 - Técnicas de controle de concorrência para transações simultâneas de banco de dados com fono no MySQL
 - Técnicas de recuperação de dados de bando de dados com MySQL
+
+# Cenário de dados
+## Contextualizando
+- Acesso à conta
+- Consulta de título na biblioteca
+- Tipos de dados
+- - Numéricos e Textual
+- Big data
+- - Velocidade, volume e variedade de dados
+- SGBD no cicle
